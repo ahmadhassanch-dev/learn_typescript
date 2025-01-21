@@ -1,4 +1,4 @@
-[For the latest docs](https://www.typescriptlang.org/docs/)
+##Learn Typescript with Ahmad Hassan
 
 
 Hello World Steps:
