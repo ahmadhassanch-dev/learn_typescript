@@ -1,4 +1,4 @@
-##Learn Typescript with Ahmad Hassan
+#Learn Typescript with Ahmad Hassan
 
 
 Hello World Steps:
